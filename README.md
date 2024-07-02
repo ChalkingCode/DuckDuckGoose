@@ -30,14 +30,14 @@ A super simple asset detection tool written in python using crt.sh and duckdb
 
 
 #### Install Packages on env
-        
-        duckdb
-	requests
-        tld
+```       
+duckdb
+requests
+tld
 
-	# This only needs to be ran once per env 
-	$ pip install -r requirements.txt
-
+# This only needs to be ran once per env 
+$ pip install -r requirements.txt
+```
 ## HowTo
 
 How to run the script that will search and grab your data  
