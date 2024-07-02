@@ -1,5 +1,5 @@
 # DuckDuckGoose
-A super simple asset detection tool written in python using crt.sh and duckdb
+A super simple asset discovery tool written in python using crt.sh and duckdb
 
 ## Features
 - Search crt.sh endpoint.
