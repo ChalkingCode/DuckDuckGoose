@@ -21,8 +21,11 @@ A super simple asset detection tool written in python using crt.sh and duckdb
 ### Prerequisites
 
 #### Enviroment
+```
 1.) ensure you have python 3.x installed 
-
+$ python3 -m venv /path/you/want/the/env/in
+$ source /path/you/want/the/env/in/bin/activate 
+```
 #### Clone repository 
 
         $ git clone https://github.com/ChalkingCode/DuckDuckGoose.git
